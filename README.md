@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working at Leroy Merlin Brasil
-- 🌱 I’m interesetd about Front-end, React, software architecture and design pattenrs
+- 🌱 I’m interesetd about Front-end, React, software architecture and design patterns
 - 📖 I'm currently pursuing an MBA in Software Engineering at USP/Esalq
 
 
